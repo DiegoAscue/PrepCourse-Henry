@@ -1,2 +1,2 @@
-# PrepCourse-Henry
-Repositorio de prueba de Henry del modulo 2
+Este proyecto es una prueba de como crear un repositorio con git hub.
+Diego Ascue
